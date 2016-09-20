@@ -1,4 +1,4 @@
-# _Cupcake Shop webpage_
+# _Boring Lecture webpage_
 
 #### _HTML exercise for Epicodus, 09.20.2016_
 
